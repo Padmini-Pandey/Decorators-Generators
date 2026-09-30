@@ -1,0 +1,24 @@
+PS D:\python programs\deco and generators> python square.py
+enter a number 5
+calling function..
+25
+function executed
+OUTPUT 2
+PS D:\python programs\deco and generators> python Addition.py
+enter a number 5
+enter a number 3
+16
+OUTPUT 3
+PS D:\python programs\deco and generators> python gen.py
+enter a number4
+4
+3
+2
+1
+OUTPUT 4
+PS D:\python programs\deco and generators> python even.py
+2
+4
+6
+8
+10
