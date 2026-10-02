@@ -9,3 +9,4 @@ def square(num):
     print(num*num)
 a=int(input("enter a number "))
 square(a)
+
